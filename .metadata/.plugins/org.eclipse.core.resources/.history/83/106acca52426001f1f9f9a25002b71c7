@@ -1,0 +1,5 @@
+package com.maven01.test;
+
+public class HelloServlet {
+
+}

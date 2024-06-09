@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+L:\_Second C Don't Delete\MavenWorkspace\.metadata\.plugins\org.eclipse.jdt.core
+1755120989.index
+298778653.index
+1865797976.index
+4174973575.index
+3397620309.index
